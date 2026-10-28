@@ -4,7 +4,7 @@ Turn a still image into a short video clip, entirely in the browser.
 
 ## Links
 
-- [Pic2Video AI](https://pic2videoai.com/)
+- [image to video converter](https://pic2videoai.com/)
 
 - [Main site](https://pic2videoai.com/)
 
